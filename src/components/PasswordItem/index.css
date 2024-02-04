@@ -1,0 +1,56 @@
+.logo-container {
+  background-color: #10b981;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.logo {
+  line-height: 1;
+  padding: 0;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.names-con {
+  padding: 0px;
+}
+
+.delete-icon {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+.star-img {
+  width: 100px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.li-container {
+  list-style-type: none;
+  display: flex;
+  width: 200px;
+  align-items: center;
+  background-color: transparent;
+  border: solid;
+  border-color: #f8fafc;
+  border-width: 1px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.name-pera {
+  color: #ffffff;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
